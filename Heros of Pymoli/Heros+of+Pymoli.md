@@ -2,7 +2,7 @@
 Heros of Pymoli Data Analysis.
 1. The players are overwhelmingly male. There were 633 malae players and onl7 136 female players.
 2. The 20-24 age group had the most purchases.
-3. The toal revune generated for all players was $2286.33
+3. The total revenue generated for all players was $2286.33
 
 
 
