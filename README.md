@@ -1,6 +1,6 @@
 # Pandas Heroes of Pymoli
 
-In this project, I used Python, Jupyter Notebook, and the Pandas library to analyze user data for a video game company. I used I analyzed data of in-game purchases by players. I aggregated and analyze the data to view trends in the purchasing behavior of the players. These were the key insights I found in my analysis:
+In this project, I used Python, Jupyter Notebook, and the Pandas library to analyze user data for a video game company. I analyzed the data of in-game purchases by players. I aggregated and analyzed the data to view trends in the purchasing behavior of the players. These were the key insights I found in my analysis:
 
 *	Most of the players were male.
 *	The 20-24 age group made most of the purchases in the game.
